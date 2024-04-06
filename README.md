@@ -7,6 +7,9 @@ Welcome to the repository that serves as a self-paced learning tour for enthusia
 As a learner and practitioner deeply engaged with the LLM landscape, I've documented my journey through:
 
 - **Reflective Notes**: Personal insights and reflections that capture my learning experiences and evolving understanding.
+  - Chapter 1 (Intro to LLM)
+    - Mitigating risks of LLMs
+      - Retrieval Augmentation: combining search and retrieval with an LLM to improve results, with external knowledge sources.
 - **Mini-Projects**: Hands-on projects that showcase real-world applications and experimentation with LLMs.
 
 ## Understanding LLMs
