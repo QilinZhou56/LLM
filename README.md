@@ -10,6 +10,8 @@ As a learner and practitioner deeply engaged with the LLM landscape, I've docume
   - Chapter 1 (Intro to LLM)
     - Mitigating risks of LLMs
       - Retrieval Augmentation: combining search and retrieval with an LLM to improve results, with external knowledge sources.
+    - Local LLMs
+      - Llamafile and Llamacpps (chatbox) with children's story demonstration
 - **Mini-Projects**: Hands-on projects that showcase real-world applications and experimentation with LLMs.
 
 ## Understanding LLMs
